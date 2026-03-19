@@ -96,7 +96,7 @@ function initializeCookieConsent() {
               },
               {
                 title: 'More information',
-                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://VN-That1Guy.github.io/Portfolio-Page/#contact">contact us</a>.'
+                description: 'For any queries in relation to our policy on cookies and your choices, please <a class="cc-link" href="https://VN-That1Guy.github.io/Portfolio-Page/Portfolio-Page/#contact">contact us</a>.'
               }
             ]
           }
